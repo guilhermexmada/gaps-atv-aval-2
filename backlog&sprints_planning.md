@@ -1,4 +1,10 @@
-# Backlog | Loja de Produtos
+# SCRUM | GAPS ATV AVAL 2
+
+## Aluno - Semestre
+
+Guilherme Shimada Pereira - DSM3
+
+# Backlog
 
 ## Requisitos funcionais
 
