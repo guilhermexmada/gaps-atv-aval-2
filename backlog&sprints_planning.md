@@ -81,3 +81,22 @@
 | Empresa          | Garantir disponibilidade e segurança | Backup automático e mecanismos de proteção        | Reduzir falhas e perda de dados                |
 | Usuários mobile  | Navegação em diferentes dispositivos | Interfaces responsivas                            | Expandir alcance da plataforma                 |
 | Equipe de gestão | Acompanhar desempenho das vendas     | Relatórios exportáveis e métricas                 | Melhorar tomada de decisão baseada em dados    |
+
+# Telas do Sistema (Figma)
+
+<img width="1440" height="1024" alt="homepage" src="https://github.com/user-attachments/assets/0d666751-3760-48a4-a56c-d806ad2e17d8" />
+
+<img width="1440" height="1024" alt="categoria" src="https://github.com/user-attachments/assets/10607865-1d96-4c14-989e-f64f9da404c2" />
+
+<img width="1440" height="1024" alt="produto" src="https://github.com/user-attachments/assets/d9d0f9d6-7fb7-4ff6-8c7e-c0d207b00f6b" />
+
+<img width="1440" height="1024" alt="Relatórios" src="https://github.com/user-attachments/assets/f868ce54-2bb3-42e7-8738-21dce56ce1a5" />
+
+<img width="1440" height="1024" alt="Perfil de Usuário" src="https://github.com/user-attachments/assets/87608f06-d5b1-47c0-a241-46bd8b75b2fa" />
+
+<img width="1440" height="1024" alt="Contato Suporte" src="https://github.com/user-attachments/assets/a173ad9a-26ca-466a-9af9-8f38d9fe7188" />
+
+
+
+
+
